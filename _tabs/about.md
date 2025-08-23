@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-[me](blog.jibbo.it/assets/img/about.jpg)
+![me](http://blog.jibbo.it/assets/img/about.jpg "me")
 
 Hello! 👋 I'm Giovanni De Francesco, also known as Jibbo, welcome to this blog!
 
