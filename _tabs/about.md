@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+[me](blog.jibbo.it/assets/img/about.jpg)
+
 Hello! 👋 I'm Giovanni De Francesco, also known as Jibbo, welcome to this blog!
 
 I'm a dreamer, an insufferable perfectionist and also highly ambitious. All this traits make me push hard everyday in many aspects of life that I like, such as: metal music, weight lifting and app development. Yeah, I like to be busy!
